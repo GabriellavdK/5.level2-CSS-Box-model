@@ -1,0 +1,34 @@
+h1,
+h2 {
+    color: coral;
+}
+
+.border {
+    border: 2px dotted grey;
+    padding: 0px 20px 10px;
+    margin: 20px;
+}
+
+main.border {
+    width: 50%;
+    margin: 0 auto;
+}
+
+body {
+    background-color: cornsilk;
+    color: darkslategray;
+    font-family: 'New Tegomin', serif;
+}
+
+a {
+    color: steelblue;
+}
+
+p {
+    font-size: 20px;
+    line-height: 1.5em;
+}
+
+.unordered-list li {
+    display: inline;
+}
